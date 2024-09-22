@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.tmp
+.DS_Store
+.env
+.vscode/
+.idea/
+node_modules/
+*.log
+_drafts/
+_config.local.yml
+
