@@ -21,14 +21,14 @@
 title: Gil C. Junqueira Jr.
 email: giljunqueira@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-Dive into a vibrant world of tech, data, and innovation! 
-Join me on an exhilarating journey through the realms of programming, data science, AI, and beyond.
-Explore cutting-edge insights on machine learning, statistical wizardry, and the ever-evolving landscape of high-tech industries.
-From leadership wisdom to management musings, this blog is your dynamic hub for all things at the intersection of technology and human ingenuity.
-Buckle up for an intellectual adventure that's as fun as it is informative!
+  Dive into a vibrant world of tech, data, and innovation! 
+  Join me on an exhilarating journey through the realms of programming, data science, AI, and beyond.
+  Explore cutting-edge insights on machine learning, statistical wizardry, and the ever-evolving landscape of high-tech industries.
+  From leadership wisdom to management musings, this blog is your dynamic hub for all things at the intersection of technology and human ingenuity.
+  Buckle up for an intellectual adventure that's as fun as it is informative!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gjunqueira-sys.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maximiano2024
+twitter_username: jekyllrb
 github_username: gjunqueira-sys
 
 # Build settings
